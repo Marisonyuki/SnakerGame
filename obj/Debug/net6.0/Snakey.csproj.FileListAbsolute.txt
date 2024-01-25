@@ -1,0 +1,14 @@
+C:\Users\Doratorio\source\repos\Snakey\bin\Debug\net6.0\Snakey.exe
+C:\Users\Doratorio\source\repos\Snakey\bin\Debug\net6.0\Snakey.deps.json
+C:\Users\Doratorio\source\repos\Snakey\bin\Debug\net6.0\Snakey.runtimeconfig.json
+C:\Users\Doratorio\source\repos\Snakey\bin\Debug\net6.0\Snakey.dll
+C:\Users\Doratorio\source\repos\Snakey\bin\Debug\net6.0\Snakey.pdb
+C:\Users\Doratorio\source\repos\Snakey\obj\Debug\net6.0\Snakey.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Doratorio\source\repos\Snakey\obj\Debug\net6.0\Snakey.AssemblyInfoInputs.cache
+C:\Users\Doratorio\source\repos\Snakey\obj\Debug\net6.0\Snakey.AssemblyInfo.cs
+C:\Users\Doratorio\source\repos\Snakey\obj\Debug\net6.0\Snakey.csproj.CoreCompileInputs.cache
+C:\Users\Doratorio\source\repos\Snakey\obj\Debug\net6.0\Snakey.dll
+C:\Users\Doratorio\source\repos\Snakey\obj\Debug\net6.0\refint\Snakey.dll
+C:\Users\Doratorio\source\repos\Snakey\obj\Debug\net6.0\Snakey.pdb
+C:\Users\Doratorio\source\repos\Snakey\obj\Debug\net6.0\Snakey.genruntimeconfig.cache
+C:\Users\Doratorio\source\repos\Snakey\obj\Debug\net6.0\ref\Snakey.dll
